@@ -27,10 +27,10 @@ Take a look at my:
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="33" height="33"/> </a>
-<a> <img src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/jupyter-notebook/jupyter-notebook.png"  width="35" height="35"/> </a>
- <a> <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png"  width="33" height="33"/> </a>
-  <a> <img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png"  alt="tableau" width="30" height="30"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
+<a> <img src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/jupyter-notebook/jupyter-notebook.png"  width="33" height="33"/> </a>
+ <a> <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png"  width="30" height="30"/> </a>
+  <a> <img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png"  alt="tableau" width="27" height="27"/> </a>
 
 
 </p>
