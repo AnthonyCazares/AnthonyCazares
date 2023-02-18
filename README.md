@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anthony.</h1>
 <h3 align="center">I am a self-taught programmer/data analyst based in México.</h3>
  
-Take a look at my 
+Take a look at my:
 
-- :penguin: SQL Projects : https://github.com/AnthonyCazares/SQL-Proyects
-- :zap: Excel Projects : ...
-- :seedling: Tableau/Power BI Projects : ...
-- :snake: Python Projects at: ...
+- <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="20" height="20"/> </a> SQL Projects : https://github.com/AnthonyCazares/SQL-Proyects
+- <a> <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png"  width="18" height="18"/> </a> Excel Projects : ...
+-   <a> <img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png"  alt="tableau" width="18" height="18"/> </a> Tableau/Power BI Projects : ...
+- <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="23" height="23"/> </a> Python Projects : ...
 
 
 
@@ -27,10 +27,10 @@ Take a look at my
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="33" height="33"/> </a>
 <a> <img src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/jupyter-notebook/jupyter-notebook.png"  width="35" height="35"/> </a>
- <a> <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png"  width="35" height="35"/> </a>
-  <a> <img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png"  alt="tableau" width="35" height="35"/> </a>
+ <a> <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png"  width="33" height="33"/> </a>
+  <a> <img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png"  alt="tableau" width="30" height="30"/> </a>
 
 
 </p>
