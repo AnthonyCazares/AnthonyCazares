@@ -6,9 +6,9 @@ Take a look at my:
 - <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql/sql.png" alt="mssql" width="20" height="20"/> </a> SQL Projects:arrow_down:
 <br> <a href= "https://github.com/AnthonyCazares/SQL-Proyects">Covid Project</a> 
 
-- <a> <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png"  width="18" height="18"/> </a> Excel Projects : ...
+- <a> <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png"  width="18" height="18"/> </a> Excel Projects :  :arrow_down: <br> <a href= "https://github.com/AnthonyCazares/Proyecto-Excel-Bicicletas">Bike buyers project</a> 
 
-- <a> <img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png"  alt="tableau" width="18" height="18"/>   -Tableau/Power BI Projects : ... </a>
+- <a> <img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png"  alt="tableau" width="18" height="18"/>   Tableau: :arrow_down: <br> <a href= "https://public.tableau.com/app/profile/anthony.cazares8368/viz/RastreadordeVacunasCOVID-19/Dashboard_">COVID Vaccine Tracker  </a>
 - <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="23" height="23"/> </a> Python Projects : ...
 
 
