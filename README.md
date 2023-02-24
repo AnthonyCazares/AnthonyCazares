@@ -9,10 +9,6 @@ Take a look at my:
 - <a> <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png"  width="18" height="18"/> </a> Excel Projects :  :arrow_down: <br> <a href= "https://github.com/AnthonyCazares/Proyecto-Excel-Bicicletas">Bike buyers project</a> 
 
 - <a> <img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png"  alt="tableau" width="18" height="18"/>   Tableau: :arrow_down: <br> <a href= "https://public.tableau.com/app/profile/anthony.cazares8368/viz/RastreadordeVacunasCOVID-19/Dashboard_">COVID Vaccine Tracker  </a>
-- <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="23" height="23"/> </a> Python Projects : ...
-
-
-
 
 - 📫 Email me at: anthonycazaresh@gmail.com
 
