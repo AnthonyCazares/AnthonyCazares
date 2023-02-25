@@ -4,7 +4,7 @@
 Take a look at my:
 
 - <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql/sql.png" alt="mssql" width="20" height="20"/> </a> SQL Projects:arrow_down:
-<br> <a href= "https://github.com/AnthonyCazares/SQL-Proyects">Covid Project</a> 
+<br> <a href= "https://github.com/AnthonyCazares/SQL-COVID-Project/blob/main/COVID%20Proyecto%20portafolio.sql">Covid Project</a> 
 
 - <a> <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png"  width="18" height="18"/> </a> Excel Projects :  :arrow_down: <br> <a href= "https://github.com/AnthonyCazares/Proyecto-Excel-Bicicletas">Bike buyers project</a> 
 
