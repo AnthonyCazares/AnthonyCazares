@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Anthony.</h1>
 <h3 align="center">Take a look at my: </h3>
  
-
+<h3>Web development projects: </h3>
 <h3>Data analysis projects: </h3>
 
-- <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql/sql.png" alt="mssql" width="20" height="20"/> </a> SQL Projects:arrow_down:
+- <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql/sql.png" alt="mssql" width="20" height="20"/> </a> SQL Project:arrow_down:
 <br> <a href= "https://github.com/AnthonyCazares/SQL-COVID-Project/blob/main/COVID%20Proyecto%20portafolio.sql">Covid Project</a> 
 
-- <a> <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png"  width="18" height="18"/> </a> Excel Projects:arrow_down: <br> <a href= "https://github.com/AnthonyCazares/Proyecto-Excel-Bicicletas">Bike buyers project</a> 
+- <a> <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png"  width="18" height="18"/> </a> Excel Project:arrow_down: <br> <a href= "https://github.com/AnthonyCazares/Proyecto-Excel-Bicicletas">Bike buyers project</a> 
 
-- <a> <img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png"  alt="tableau" width="18" height="18"/>   Tableau Projects:arrow_down: <br> <a href= "https://public.tableau.com/app/profile/anthony.cazares8368/viz/RastreadordeVacunasCOVID-19/Dashboard_">COVID Vaccine Tracker  </a>
+- <a> <img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png"  alt="tableau" width="18" height="18"/>   Tableau Project:arrow_down: <br> <a href= "https://public.tableau.com/app/profile/anthony.cazares8368/viz/RastreadordeVacunasCOVID-19/Dashboard_">COVID Vaccine Tracker  </a>
  
- - <a> <img src="https://avatars.githubusercontent.com/u/102005530?v=4"  alt="tableau" width="18" height="18"/>   Power BI Projects:arrow_down: <br> <a href= "https://github.com/AnthonyCazares/Professional-Survey/tree/main">Proffesional survey dashboard  </a>
+ - <a> <img src="https://avatars.githubusercontent.com/u/102005530?v=4"  alt="tableau" width="18" height="18"/>   Power BI Project:arrow_down: <br> <a href= "https://github.com/AnthonyCazares/Professional-Survey/tree/main">Proffesional survey dashboard  </a>
 
- - <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="23" height="23"/> </a> Python Projects:arrow_down: <br> <a href="https://github.com/AnthonyCazares/Web-Scraping-with-python/blob/main/webscraping%20(1).ipynb">Web scraping with python </a>
+ - <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="23" height="23"/> </a> Python Project:arrow_down: <br> <a href="https://github.com/AnthonyCazares/Web-Scraping-with-python/blob/main/webscraping%20(1).ipynb">Web scraping with python </a>
 
 - 📫 Email me at: anthonycazaresh@gmail.com
 
