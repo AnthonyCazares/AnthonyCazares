@@ -2,6 +2,8 @@
 <h3 align="center">Take a look at my: </h3>
  
 <h3>Web development projects: </h3>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="20" height="20"/> </a> Next.js, React, TypeScript
+<br> <a href= "https://github.com/AnthonyCazares/clon-redsocial">Social media clone</a> 
 <h3>Data analysis projects: </h3>
 
 - <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql/sql.png" alt="mssql" width="20" height="20"/> </a> SQL Project:arrow_down:
