@@ -7,8 +7,6 @@
 <br> <a href= "https://anthonycazares.vercel.app/">4 mini projects</a> 
 
 
-- 📫 Email me at: anthonycazaresh@gmail.com
-
 <h3>Data analysis projects: </h3>
 
 - <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql/sql.png" alt="mssql" width="20" height="20"/> </a> SQL Project:arrow_down:
