@@ -3,9 +3,11 @@
  
 <h3>Web development projects: </h3>
 
-- <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="20" height="20"/> </a> React projects: 
-<br> <a href= "https://anthonycazares.vercel.app/">Social media clone</a> 
+- <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="20" height="20"/> </a> React: 
+<br> <a href= "https://anthonycazares.vercel.app/">4 mini projects</a> 
 
+
+- 📫 Email me at: anthonycazaresh@gmail.com
 
 <h3>Data analysis projects: </h3>
 
@@ -20,7 +22,7 @@
 
  - <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="23" height="23"/> </a> Python Project:arrow_down: <br> <a href="https://github.com/AnthonyCazares/Web-Scraping-with-python/blob/main/webscraping%20(1).ipynb">Web scraping with python </a>
 
-- 📫 Email me at: anthonycazaresh@gmail.com
+
 
 
 
