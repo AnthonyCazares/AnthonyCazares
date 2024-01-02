@@ -3,7 +3,8 @@
  
 <h3>Web development projects: </h3>
 
-- <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="20" height="20"/> </a> React: 
+- <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="20" height="20"/> </a> 
+ React: 
 <br> <a href= "https://anthonycazares.vercel.app/">4 mini projects</a> 
 
 
